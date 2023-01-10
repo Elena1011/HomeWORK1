@@ -1,0 +1,15 @@
+C:\Users\lento\Desktop\Itog01\bin\Debug\net6.0\Itog01.exe
+C:\Users\lento\Desktop\Itog01\bin\Debug\net6.0\Itog01.deps.json
+C:\Users\lento\Desktop\Itog01\bin\Debug\net6.0\Itog01.runtimeconfig.json
+C:\Users\lento\Desktop\Itog01\bin\Debug\net6.0\Itog01.dll
+C:\Users\lento\Desktop\Itog01\bin\Debug\net6.0\Itog01.pdb
+C:\Users\lento\Desktop\Itog01\obj\Debug\net6.0\Itog01.csproj.AssemblyReference.cache
+C:\Users\lento\Desktop\Itog01\obj\Debug\net6.0\Itog01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lento\Desktop\Itog01\obj\Debug\net6.0\Itog01.AssemblyInfoInputs.cache
+C:\Users\lento\Desktop\Itog01\obj\Debug\net6.0\Itog01.AssemblyInfo.cs
+C:\Users\lento\Desktop\Itog01\obj\Debug\net6.0\Itog01.csproj.CoreCompileInputs.cache
+C:\Users\lento\Desktop\Itog01\obj\Debug\net6.0\Itog01.dll
+C:\Users\lento\Desktop\Itog01\obj\Debug\net6.0\refint\Itog01.dll
+C:\Users\lento\Desktop\Itog01\obj\Debug\net6.0\Itog01.pdb
+C:\Users\lento\Desktop\Itog01\obj\Debug\net6.0\Itog01.genruntimeconfig.cache
+C:\Users\lento\Desktop\Itog01\obj\Debug\net6.0\ref\Itog01.dll
